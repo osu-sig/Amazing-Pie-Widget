@@ -28,8 +28,8 @@ class Dashing.Pie extends Dashing.Widget
     height = $(@node).height() * .7 - ((font_size + label_padding) * number_legend_rows)
     radius = (if width < height then width else height) / 2
     arc_width = radius / 2
-    # If you want to have your colors generated for you, uncomment the following line and delete the one after it.
-    #color = d3.scale.category20()
+    # This is supposed to auto-generate colors, but it doesn't. 
+    #colors = d3.scale.category20()
     colors = ["#9c4274", "#47bbb3", "#dc5945", "#ff9618", "#208ac9"]
     threshold = 10
     total = 0
