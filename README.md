@@ -1,17 +1,17 @@
 ---
-title: Pie
+title: Amazing Pie
 description: A pie chart widget for dashing, with a legend
 author: Michael Woffendin
-tags: dashing, widget, chart, legend, pie
+tags: dashing, widget, chart, legend, pie, amazing
 created:  2015 Jan 12
 modified: 2015 Jan 12
 
 ---
 
-Pie
+Amazing Pie
 =========
 
-![alt tag](https://raw.github.com/osu-sig/Pie-Widget/master/screenshot.png)
+![alt tag](https://raw.github.com/osu-sig/Amazing-Pie-Widget/master/screenshot.png)
 
 ## What is it?
 

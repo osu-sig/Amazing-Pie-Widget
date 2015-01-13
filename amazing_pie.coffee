@@ -1,4 +1,4 @@
-class Dashing.Pie extends Dashing.Widget
+class Dashing.AmazingPie extends Dashing.Widget
 
   ready: ->
     pie = $(@node).find(".pie")
